@@ -19,7 +19,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/kubernetes-incubator/auger/cmd"
+	"github.com/marcwickenden/auger/cmd"
 )
 
 func main() {

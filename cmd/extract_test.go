@@ -21,7 +21,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/kubernetes-incubator/auger/pkg/encoding"
+	"github.com/marcwickenden/auger/pkg/encoding"
 )
 
 const (

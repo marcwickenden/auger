@@ -21,7 +21,7 @@ import (
 	"io"
 	"os"
 
-	"github.com/kubernetes-incubator/auger/pkg/encoding"
+	"github.com/marcwickenden/auger/pkg/encoding"
 	"github.com/spf13/cobra"
 )
 
